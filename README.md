@@ -1,0 +1,3 @@
+# SendMailCode
+
+Mail sending program.
